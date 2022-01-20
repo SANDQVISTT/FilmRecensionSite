@@ -1,12 +1,13 @@
 *{
     padding: 0;
     margin: 0;
+    background-color: rgb(170, 203, 241);
 }
 
 nav,a{
      padding: 10px;
     display: grid;
-    background-color: lightgrey;
+    background-color: lightgray;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -55,7 +56,8 @@ nav,a{
 
 
 footer{
-    background-color: lightgrey;
+    background-color: lightgray;
+    color: black;
     text-align: center;
     position: fixed;
     height: 50px;
