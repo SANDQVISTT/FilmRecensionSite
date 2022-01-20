@@ -4,7 +4,7 @@ Välkommen till vår Filmrecension
 
 I den hör övningen har vi arbetat i främst i VS och därefter har vi använt oss av github desktop och extensions.
 
-(lägga in vår logo)
+<img src="/img/logo.png" width="100">
 
 Vi som har gjort denna sida:
 - Jonathan Sandqvist 
