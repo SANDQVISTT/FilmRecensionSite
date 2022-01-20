@@ -7,9 +7,9 @@ I den hör övningen har vi arbetat i främst i VS och därefter har vi använt 
 (lägga in vår logo)
 
 Vi som har gjort denna sida:
-- Jonathan Sandqvist #21
-- Othman Abdolhalim #22
-- Michaela Sydow #23
+- Jonathan Sandqvist 
+- Othman Abdolhalim 
+- Michaela Sydow 
 
 Vi finns på:
 - https://github.com/SANDQVISTT
