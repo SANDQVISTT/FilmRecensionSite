@@ -17,3 +17,8 @@ nav,a{
     font-weight: bold;
     color: black;
 }
+
+.logo{
+    width: 70px;
+    height: auto;
+}
