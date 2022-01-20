@@ -1,6 +1,6 @@
 # FilmRecensionSite
 
-Välkommen till vår Filmrecention
+Välkommen till vår Filmrecension
 
 I den hör övningen har vi arbetat i främst i VS och därefter har vi använt oss av github desktop och extensions.
 
