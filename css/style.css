@@ -55,6 +55,9 @@ img{
     right: 0;
 }
 
+.bilderna {
+    flex: center;
+}
 
 
 
@@ -69,3 +72,4 @@ footer{
     margin-bottom: 0px;
 }
 
+ 
