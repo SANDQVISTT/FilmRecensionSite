@@ -37,12 +37,11 @@ nav,a{
 }
 
 
-.fimlinfo {
- grid-template-columns: auto 8rem;
-    grid-template-rows: 8rem 4rem 100% 4rem;
-    grid-row: 3/4;
-    grid-column: 2/3;
- 
+.filmInfo {
+    text-align: center;
+    margin: 5em;
+    padding: 2rem;
+
 }
 .SajtTips{
     border: solid black 2px;
