@@ -1,5 +1,19 @@
 # FilmRecensionSite
 
-Välkmmen till vår Filmrecention
+Välkommen till vår Filmrecention
 
-Här kommer ni se vår hemsida med dom bästa filmerna. 
+I den hör övningen har vi arbetat i främst i VS och därefter har vi använt oss av github desktop och extensions.
+
+(lägga in vår logo)
+
+Vi som har gjort denna sida:
+- Jonathan Sandqvist
+- Othman Abdolhalim
+- Michaela Sydow
+
+Vi finns på:
+- https://github.com/SANDQVISTT
+- https://github.com/Othmaann
+- https://github.com/Sydow75
+
+
