@@ -56,8 +56,8 @@ img{
     right: 0;
 }
 
-.bilderna {
-    flex: center;
+.bilderna{
+    justify-content: center;
 }
 
 
