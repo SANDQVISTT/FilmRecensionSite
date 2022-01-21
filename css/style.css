@@ -5,6 +5,7 @@
 }
 header{
     margin: 3rem;
+   
 }
 
 nav,a{
@@ -56,14 +57,25 @@ img{
 
 
 .SajtTips{
-    border: solid black 2px;
-    position: fixed;
-    right: 0;
+    position: absolute;
+    
+   width: 100%;
+   height: 40%;
+   text-align: center;
+   background-color: rgb(113, 113, 241);
+  
+
+}
+.links{
+    font-size: x-large;
+    font-weight: bold;
 }
 
 .bilderna{
     display: flex;
     justify-content: center;
+    padding-bottom: 10rem;
+   
   
 }
 
